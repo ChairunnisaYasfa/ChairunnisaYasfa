@@ -30,13 +30,15 @@
 <div align="center">
   <h3>✧ Connect With Me ✧</h3>
   <a href="https://instagram.com/naneunchaa_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@naneunchaa__-FFF0F3?style=for-the-badge&logo=instagram&logoColor=7A4958&labelColor=FAD2E1" />
+    <img src="https://skillicons.dev/icons?i=instagram&theme=light" width="42" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/chairunnisayasfag/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Chairunnisa%20Yasfa-FFF0F3?style=for-the-badge&logoColor=7A4958&labelColor=FAD2E1" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="42" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:chairunnisa135077@gmail.com">
-    <img src="https://img.shields.io/badge/Email-chairunnisa135077@gmail.com-FFF0F3?style=for-the-badge&logo=gmail&logoColor=7A4958&labelColor=FAD2E1" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="42" />
   </a>
 </div>
 
